@@ -14,3 +14,7 @@
 * nanotronics
 	* Combining optical microscopy, computational super-resolution, artificial intelligence, and robotics - most advanced microscope to every manufacturing sector
 
+
+### SaaS
+* Indico
+	* ML model builder for enterprise (https://indico.io/product)
