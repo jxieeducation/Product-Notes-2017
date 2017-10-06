@@ -12,3 +12,13 @@
 * 21Buttons 
 	* social fashion network
 
+
+### etc
+* UrbanSitter
+	* babysitting / uber for baby sitting
+
+### Real Estate
+* FlyHomes
+	* buy homes, takes away pain of home buying (tours, offers...etc.)
+* Gavl
+	* live auction, buy home via an auction, live

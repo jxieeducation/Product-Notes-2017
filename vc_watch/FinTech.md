@@ -8,8 +8,7 @@
 * Beehive
 	* peer-to-peer lending
 	* good explanation here: https://www.beehive.ae/how-it-works/
-
-
+	
 
 ### RegTech
 * Passfort
@@ -22,9 +21,3 @@
 * Kik 
 	* Chat place (I used it on craigslist once)
 	* coins will be used as actual money on the platform
-
-
-### Real Estate
-* FlyHomes
-	* buy homes, takes away pain of home buying (tours, offers...etc.)
-

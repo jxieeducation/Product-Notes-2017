@@ -13,4 +13,3 @@
 ### Software
 * FogHorn
 	* management of IoT devices across the board
-

@@ -18,3 +18,8 @@
 ### SaaS
 * Indico
 	* ML model builder for enterprise (https://indico.io/product)
+
+
+### Chatbot
+* NearGroup
+	* connects people by chatbot e.g. location, interest, dating...etc.
