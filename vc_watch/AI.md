@@ -23,3 +23,8 @@
 ### Chatbot
 * NearGroup
 	* connects people by chatbot e.g. location, interest, dating...etc.
+
+
+### Trading
+* bmll tech
+	* some sort of trading?

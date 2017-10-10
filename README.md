@@ -4,6 +4,9 @@
 
 ## To do: 
 
+* Founder's guide: Mapping Your First Sales Playbook (http://bowerycap.com/blog/sales/mapping-your-first-sales-playbook/?utm_source=CB+Insights+Newsletter&utm_campaign=b18d5feb80-MonNL_10_9_2017&utm_medium=email&utm_term=0_9dc0513989-b18d5feb80-89434693)
+* Analyzing Stash Invest (https://www.cbinsights.com/research/stash-invest-teardown-expert-intelligence/?utm_source=CB+Insights+Newsletter&utm_campaign=b18d5feb80-MonNL_10_9_2017&utm_medium=email&utm_term=0_9dc0513989-b18d5feb80-89434693)
+* CBInsights AI Analysis (https://www.cbinsights.com/research/jobs-automation-artificial-intelligence-risk/?utm_source=CB+Insights+Newsletter&utm_campaign=b18d5feb80-MonNL_10_9_2017&utm_medium=email&utm_term=0_9dc0513989-b18d5feb80-89434693)
 * Breakthrough script via ConnectAndSell (https://connectandsell.com/five-sentences-will-change-life-part-1/)
 * Ultimate guide to objection handling (https://blog.hubspot.com/sales/handling-common-sales-objections#sm.0001g9ptm9n1lf8tt0x22xgh6jhog)
 * B2B social selling framework (https://www.linkedin.com/pulse/b2b-social-selling-framework-gabe-villamizar/)
