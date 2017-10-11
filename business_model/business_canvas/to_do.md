@@ -5,7 +5,6 @@
 ### To do:
 * RocketReach
 * Mapbox
-* Pixlee - UGC (user generated content)
 * Litmus
 * Elucify
 * Redbooks
@@ -17,3 +16,4 @@
 * Conversica
 * Spiro
 * Flexport
+* Pixlee - UGC (user generated content)

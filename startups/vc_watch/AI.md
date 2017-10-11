@@ -9,7 +9,7 @@
 	* Robotic Process Automation - clerical process automation technology based on the notion of software robots or artificial intelligence workers
 	* divided into unattended automation, attended automation and hybrid automation
 * Standard Cognition
-	* 
+	* Amazon GO checkout
 
 
 ### Manufacturing
@@ -32,4 +32,13 @@
 ### Trading
 * bmll tech
 	* some sort of trading?
+
+### Legal
+* Ross
+	* https://techcrunch.com/2017/10/11/ross-intelligence-lands-8-7m-series-a-to-speed-up-legal-research-with-ai/
+
+
+### Marketing
+* Ometria
+	* customer marketing platform, which, it claims, enables retailers to send individually personalised marketing messages across several brand touchpoints.
 

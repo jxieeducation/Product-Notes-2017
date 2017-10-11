@@ -8,4 +8,5 @@
 	* completely mobile, social, talent acquisition platform with modern recruiting
 * Zume Pizza
 	* store-less pizza company (uses robots...)
-
+* Diandian Yangche
+	* a range of painting and cleaning services for cars in more than 20 Chinese cities 
