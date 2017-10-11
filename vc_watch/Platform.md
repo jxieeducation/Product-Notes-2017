@@ -17,10 +17,16 @@
 ### Workplace
 * ShyftPlan
 	* shift planning, evaluation, time card, payment
+* Bill.com
+	* business to business payment, 2x-3x faster
 
 ### etc
 * UrbanSitter
 	* babysitting / uber for baby sitting
 * Laundryheap
 	* laundry on demand
-
+* Verve
+	* a sales platform for advocacy programs
+	* making word-of-mouth or many-to-many marketing scalable
+* Visor
+	* taxes made simple - upload tax docs, they do it for you

@@ -8,6 +8,8 @@
 * Kyron Systems 
 	* Robotic Process Automation - clerical process automation technology based on the notion of software robots or artificial intelligence workers
 	* divided into unattended automation, attended automation and hybrid automation
+* Standard Cognition
+	* 
 
 
 ### Manufacturing
@@ -18,6 +20,8 @@
 ### SaaS
 * Indico
 	* ML model builder for enterprise (https://indico.io/product)
+* Petuum
+	* automating aspects of data preparation and machine learning model selection
 
 
 ### Chatbot
@@ -28,3 +32,4 @@
 ### Trading
 * bmll tech
 	* some sort of trading?
+
