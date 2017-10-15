@@ -3,7 +3,8 @@
 ### Sensors
 * Enevo 
 	* sensors that notify when waste bins are full
-
+* tooshlights
+	* bathroom stall lights...
 
 ### Tracking
 * Cloud4Wi
@@ -18,3 +19,4 @@
 ### Home
 * Brilliant
 	* voice and touch control over smart home products (Sonos, Nest, and more), instead of smartphone
+

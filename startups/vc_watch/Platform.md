@@ -33,3 +33,11 @@
 	* on demand logistics company, transport A to B, uber for business
 * Allume
 	* on-demand personal shopping service
+* AppearHere
+	* Airbnb for retail space
+* CreativeMarket
+	* online market place for designs, such as fonts, logos
+* Flont
+	* jewelry rental, like gamefly
+* vyesports
+	* RTB but for esports opportunities

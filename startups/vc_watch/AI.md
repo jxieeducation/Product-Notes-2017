@@ -27,11 +27,14 @@
 ### Chatbot
 * NearGroup
 	* connects people by chatbot e.g. location, interest, dating...etc.
-
+* NumberAI
+	* API integration + chatbot
 
 ### Trading
 * bmll tech
 	* some sort of trading?
+* MioTech
+	* artificial intelligence based software for investment managers
 
 ### Legal
 * Ross
