@@ -11,6 +11,8 @@
 	* IT management cloud
 * Attivo Networks
 	* deceive, dectect and defend networks
+* Backpane 
+	* cloud deployment for containers
 
 
 ### Software Development

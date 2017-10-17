@@ -29,6 +29,8 @@
 	* connects people by chatbot e.g. location, interest, dating...etc.
 * NumberAI
 	* API integration + chatbot
+* Snaps
+	* Chatbot for marketing! 
 
 ### Trading
 * bmll tech

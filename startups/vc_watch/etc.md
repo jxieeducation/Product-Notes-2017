@@ -19,4 +19,7 @@
 	* audio-searchable podcast app
 * JustCo
 	* coworking space
-
+* Connexin
+	* really good wifi / alternative
+* PlutoTV
+	* TV on internet / devices

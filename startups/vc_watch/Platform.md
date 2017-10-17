@@ -45,3 +45,11 @@
 	* reseller market targetting women and social
 * CourtBuddy
 	* match single attorney with clients
+* SpotAHome
+	* mid to long term rentals
+* Level 10 Energy
+	* market place for electricity (PPA)
+* Fluent City
+	* online market place for language learning / classes
+
+

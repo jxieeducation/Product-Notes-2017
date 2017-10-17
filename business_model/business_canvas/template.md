@@ -7,11 +7,11 @@
 
 ### Customer Segments
 
-### Customer Relationships
+### Value Propositions
 
 ### Channels
 
-### Value Propositions
+### Customer Relationships
 
 ### Key Activities
 

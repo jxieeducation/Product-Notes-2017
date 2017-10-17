@@ -10,6 +10,9 @@
 	* good explanation here: https://www.beehive.ae/how-it-works/
 * Grover
 	* subscribe to tech products monthly instead of buying them
+* BankBazaar
+	* one-stop portal for a range of financial services in India
+	* includes information about loans, credit cards, fixed deposits, insurance policies and lets visitors apply for services from more from over 75 financial institutions and insurance firms
 
 ### RegTech
 * Passfort
@@ -24,3 +27,5 @@
 * Kik 
 	* Chat place (I used it on craigslist once)
 	* coins will be used as actual money on the platform
+* Digital Asset Holdings
+	* developer of blockchain software for the financial sector
