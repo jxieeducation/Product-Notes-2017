@@ -17,3 +17,6 @@
 	* a happy or not physical machine that you put in your store...
 * CastBox
 	* audio-searchable podcast app
+* JustCo
+	* coworking space
+

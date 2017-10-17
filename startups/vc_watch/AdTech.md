@@ -7,3 +7,9 @@
 * QuanticMind
 	* DSP
 
+
+
+### Influencer
+* Unity Influence
+	* connect brands to influencers
+

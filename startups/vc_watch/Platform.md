@@ -41,3 +41,7 @@
 	* jewelry rental, like gamefly
 * vyesports
 	* RTB but for esports opportunities
+* Meesho
+	* reseller market targetting women and social
+* CourtBuddy
+	* match single attorney with clients
