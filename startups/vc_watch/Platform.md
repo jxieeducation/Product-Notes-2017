@@ -51,5 +51,7 @@
 	* market place for electricity (PPA)
 * Fluent City
 	* online market place for language learning / classes
-
-
+* allsetnow
+	* order food online + arrive and dine, no wait
+* Movinga
+	* house removals

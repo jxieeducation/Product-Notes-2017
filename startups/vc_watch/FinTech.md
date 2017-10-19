@@ -13,6 +13,8 @@
 * BankBazaar
 	* one-stop portal for a range of financial services in India
 	* includes information about loans, credit cards, fixed deposits, insurance policies and lets visitors apply for services from more from over 75 financial institutions and insurance firms
+* LendingHome
+	* custom mortgage
 
 ### RegTech
 * Passfort
@@ -29,3 +31,5 @@
 	* coins will be used as actual money on the platform
 * Digital Asset Holdings
 	* developer of blockchain software for the financial sector
+* norbloc
+	* using blockchain to store customer identity / onboarding data

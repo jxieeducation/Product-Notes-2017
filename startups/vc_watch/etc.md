@@ -23,3 +23,27 @@
 	* really good wifi / alternative
 * PlutoTV
 	* TV on internet / devices
+* Lightspeed POS 
+	* basically cache register software w/ analytics
+	* point of sale, accounting, inventory management, and purchasing analytics
+* Duo Security
+	* vpn basically / securities
+* selfmade
+	* professional photo editing for people to grow their social media
+* charitycheckout
+	* help charities make websites 
+* n3rdstreetgamers
+	* esports event organizers
+* Bespoke Post
+	* basically lootcrate for men - get a box per month
+* XMOS
+	* voice recognition chip
+* HiYa
+	* Caller Id and block
+* Equinom
+	* seed breeding technology / DNA stuff
+* coda
+	* new excel software
+
+
+

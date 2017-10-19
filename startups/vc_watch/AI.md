@@ -15,6 +15,8 @@
 ### Manufacturing
 * nanotronics
 	* Combining optical microscopy, computational super-resolution, artificial intelligence, and robotics - most advanced microscope to every manufacturing sector
+* Veo Robotics
+	* collaborative robots that can recognize humans
 
 
 ### SaaS
@@ -31,6 +33,8 @@
 	* API integration + chatbot
 * Snaps
 	* Chatbot for marketing! 
+* Mya
+	* chatbot for recruiting (sourcing, screening & scheduling)
 
 ### Trading
 * bmll tech
