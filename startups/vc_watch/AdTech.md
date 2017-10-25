@@ -13,3 +13,13 @@
 * Unity Influence
 	* connect brands to influencers
 
+
+### Publisher
+* NYIAX
+	* exchange to trade advertising contracts 
+
+
+### Search
+* Constructor.io
+	* allows search and analytics on search box based on your product catalogue
+

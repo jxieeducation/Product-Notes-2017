@@ -33,3 +33,5 @@
 	* developer of blockchain software for the financial sector
 * norbloc
 	* using blockchain to store customer identity / onboarding data
+* Abra
+	* digital wallet?

@@ -10,6 +10,9 @@
 	* divided into unattended automation, attended automation and hybrid automation
 * Standard Cognition
 	* Amazon GO checkout
+* Robart
+	* AI for autonomous consumer robots
+
 
 
 ### Manufacturing
@@ -35,6 +38,10 @@
 	* Chatbot for marketing! 
 * Mya
 	* chatbot for recruiting (sourcing, screening & scheduling)
+* Spoke
+	* chatbot for internal knowledge sharing
+* iAdvize
+	* conversational marketing company
 
 ### Trading
 * bmll tech

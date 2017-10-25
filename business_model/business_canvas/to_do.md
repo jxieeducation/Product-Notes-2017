@@ -3,6 +3,8 @@
 * https://www.cleverism.com/companies/
 
 ### To do:
+* chatfuel
+* nyiax
 * cerkl
 * affinity.co (https://techcrunch.com/2017/05/18/for-investors-seeking-a-purpose-built-crm-toolkit-affinity-raised-13-5-million-to-get-you-covered/)
 * RocketReach

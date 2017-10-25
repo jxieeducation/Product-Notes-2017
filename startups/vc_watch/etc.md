@@ -42,8 +42,9 @@
 	* Caller Id and block
 * Equinom
 	* seed breeding technology / DNA stuff
-* coda
-	* new excel software
-
-
-
+* Intelligo
+	* due-diligence for automatic background check
+* SafeTraces
+	* edible and invisible barcodes
+* Nimble Prescription
+	* Uber for prescription meds

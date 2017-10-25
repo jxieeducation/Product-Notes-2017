@@ -18,3 +18,5 @@
 ### Software Development
 * GitLab
 	* online Git repository manager with a wiki, issue tracking, CI and CD
+* Coda
+	* consolidate between docs, spreadsheets and apps
