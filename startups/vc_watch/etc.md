@@ -48,3 +48,18 @@
 	* edible and invisible barcodes
 * Nimble Prescription
 	* Uber for prescription meds
+* ninebot
+	* make scooters
+* Movinga
+	* house removals
+* klook
+	* travel booking for Asia e.g. tour for Macau
+* chownow
+	* build online order website w/ apps, analytics...etc. 
+* Reflektion 
+	* build site search technology
+* stardog
+	* builds graphs for enterprises
+* AMOpportunities
+	* brings international medical trainees to the U.S. for short-term medical training
+

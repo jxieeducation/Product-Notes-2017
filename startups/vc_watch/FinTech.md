@@ -15,6 +15,9 @@
 	* includes information about loans, credit cards, fixed deposits, insurance policies and lets visitors apply for services from more from over 75 financial institutions and insurance firms
 * LendingHome
 	* custom mortgage
+* Nested
+	* real estate platform for people to sell houses
+	* provide cash advance to help you buy a new house before you sold the old one
 
 ### RegTech
 * Passfort

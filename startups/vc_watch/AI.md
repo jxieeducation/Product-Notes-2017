@@ -20,6 +20,8 @@
 	* Combining optical microscopy, computational super-resolution, artificial intelligence, and robotics - most advanced microscope to every manufacturing sector
 * Veo Robotics
 	* collaborative robots that can recognize humans
+* Kindred
+	* https://www.kindred.ai/products (sort products)
 
 
 ### SaaS
@@ -57,4 +59,10 @@
 ### Marketing
 * Ometria
 	* customer marketing platform, which, it claims, enables retailers to send individually personalised marketing messages across several brand touchpoints.
+
+### etc
+* umbocv
+	* home security
+* scoutible
+	* make hires based on gaming data + ML
 

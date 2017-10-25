@@ -53,5 +53,5 @@
 	* online market place for language learning / classes
 * allsetnow
 	* order food online + arrive and dine, no wait
-* Movinga
-	* house removals
+* Brainly
+	* peer to peer student Q&A
