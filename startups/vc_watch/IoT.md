@@ -20,3 +20,6 @@
 * Brilliant
 	* voice and touch control over smart home products (Sonos, Nest, and more), instead of smartphone
 
+### etc
+* makusafe
+	* wearable workplace armband for communication

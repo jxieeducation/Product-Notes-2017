@@ -22,3 +22,4 @@
 * Pixlee - UGC (user generated content)
 * Mapbox
 * SkyTree
+* AppAnnie
