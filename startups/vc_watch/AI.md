@@ -65,4 +65,5 @@
 	* home security
 * scoutible
 	* make hires based on gaming data + ML
-
+* amperity
+	* syncing identity data from multiple sources

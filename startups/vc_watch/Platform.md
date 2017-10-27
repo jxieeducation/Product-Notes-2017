@@ -55,3 +55,6 @@
 	* order food online + arrive and dine, no wait
 * Brainly
 	* peer to peer student Q&A
+* carousell
+	* e-commerce for 2nd hand goods
+
