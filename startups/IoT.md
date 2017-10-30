@@ -9,7 +9,8 @@
 ### Tracking
 * Cloud4Wi
 	* indoor tracking / location analytics and marketing platform
-
+* Farmobile
+	* farming IoT data collection, collects machine and agronomic data every second
 
 ### Software
 * FogHorn

@@ -62,4 +62,7 @@
 	* builds graphs for enterprises
 * AMOpportunities
 	* brings international medical trainees to the U.S. for short-term medical training
-
+* Common
+	* wework for living
+* Wonder Workshop
+	* toys that teach children stuff
