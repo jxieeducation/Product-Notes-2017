@@ -13,6 +13,8 @@
 	* deceive, dectect and defend networks
 * Backpane 
 	* cloud deployment for containers
+* Trilio
+	* openstack backup solution
 
 
 ### Software Development

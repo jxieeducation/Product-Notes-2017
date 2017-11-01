@@ -66,3 +66,6 @@
 	* wework for living
 * Wonder Workshop
 	* toys that teach children stuff
+* Ada Health
+	* chat app that diagnoses you with conditions 
+
