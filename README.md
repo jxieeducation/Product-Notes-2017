@@ -4,6 +4,7 @@
 
 ## To do: 
 
+* try InVision
 * Founder's guide: Mapping Your First Sales Playbook (http://bowerycap.com/blog/sales/mapping-your-first-sales-playbook/?utm_source=CB+Insights+Newsletter&utm_campaign=b18d5feb80-MonNL_10_9_2017&utm_medium=email&utm_term=0_9dc0513989-b18d5feb80-89434693)
 * Analyzing Stash Invest (https://www.cbinsights.com/research/stash-invest-teardown-expert-intelligence/?utm_source=CB+Insights+Newsletter&utm_campaign=b18d5feb80-MonNL_10_9_2017&utm_medium=email&utm_term=0_9dc0513989-b18d5feb80-89434693)
 * CBInsights AI Analysis (https://www.cbinsights.com/research/jobs-automation-artificial-intelligence-risk/?utm_source=CB+Insights+Newsletter&utm_campaign=b18d5feb80-MonNL_10_9_2017&utm_medium=email&utm_term=0_9dc0513989-b18d5feb80-89434693)

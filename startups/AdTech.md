@@ -17,7 +17,8 @@
 ### Publisher
 * NYIAX
 	* exchange to trade advertising contracts 
-
+* Cinématique
+	* “touchable” video platform that enables users to tap or click on different items to learn more
 
 ### Search
 * Constructor.io

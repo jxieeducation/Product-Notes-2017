@@ -27,6 +27,8 @@
 	* store-less pizza company (uses robots...)
 * Diandian Yangche
 	* a range of painting and cleaning services for cars in more than 20 Chinese cities 
+* Harry's 
+	* subscription for shaving blades / utensils
 
 
 ### Business
@@ -60,10 +62,12 @@
 	* vpn basically / securities
 * Idelic Tech
 	* allows safety managers and their teams to automate compliance processes, integrate all of their systems, and gain valuable insight and analytics on their drivers
-
+* AppZen
+	* audit expense reports to make sure that that expenses are not abusive
 
 ### Etc
 * AMOpportunities
 	* brings international medical trainees to the U.S. for short-term medical training
-
+* InVision
+	* design collaboration tool 
 
