@@ -3,9 +3,9 @@
 * https://www.cleverism.com/companies/
 
 ### To do:
+* InVision (design prototype tool)
 * UiPath (robotic process automation)
 * Farmobile (collecting farming data)
-* Chatfuel (chatbot creation)
 * Nyiax (trading digital advertising contracts)
 * Cerkl (newsletter engagement)
 * Affinity.co (https://techcrunch.com/2017/05/18/for-investors-seeking-a-purpose-built-crm-toolkit-affinity-raised-13-5-million-to-get-you-covered/)
@@ -26,3 +26,4 @@
 * SkyTree
 * AppAnnie
 * Common (coliving)
+* Chatfuel (chatbot creation)
