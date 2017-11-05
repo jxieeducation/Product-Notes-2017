@@ -67,3 +67,5 @@
 	* make hires based on gaming data + ML
 * amperity
 	* syncing identity data from multiple sources
+* pienso
+	* no-coding / statistics AI solution for domain experts

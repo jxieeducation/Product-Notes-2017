@@ -5,6 +5,8 @@
 	* Software liscencing - land-and-expand 
 * AtScale
 	* hadoop reporting
+* YugaByte
+	* cloud based data base
 
 ### Cloud
 * OpsRamp
@@ -22,3 +24,5 @@
 	* online Git repository manager with a wiki, issue tracking, CI and CD
 * Coda
 	* consolidate between docs, spreadsheets and apps
+* testim.io
+	* modern testing - test on different devices in browser, run in parallel, CI..etc.

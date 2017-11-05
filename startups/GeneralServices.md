@@ -29,6 +29,11 @@
 	* a range of painting and cleaning services for cars in more than 20 Chinese cities 
 * Harry's 
 	* subscription for shaving blades / utensils
+* ink.me
+	* printing hardware / software for self served
+* lunarwireless
+	* no monthly data fee
+	* pay per app per day
 
 
 ### Business

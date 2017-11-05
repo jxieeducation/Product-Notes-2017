@@ -3,7 +3,8 @@
 * https://www.cleverism.com/companies/
 
 ### To do:
-* InVision (design prototype tool)
+* Lunar Wireless (pay as you go data plan)
+* Veritone (AI OS)
 * UiPath (robotic process automation)
 * Farmobile (collecting farming data)
 * Nyiax (trading digital advertising contracts)
@@ -27,3 +28,4 @@
 * AppAnnie
 * Common (coliving)
 * Chatfuel (chatbot creation)
+* InVision (design prototype tool)

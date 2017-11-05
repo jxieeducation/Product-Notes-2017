@@ -57,4 +57,6 @@
 	* peer to peer student Q&A
 * carousell
 	* e-commerce for 2nd hand goods
+* cfxtrading
+	* secondary asset trading
 
