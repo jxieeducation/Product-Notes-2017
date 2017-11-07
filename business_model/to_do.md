@@ -10,7 +10,6 @@
 * Nyiax (trading digital advertising contracts)
 * Cerkl (newsletter engagement)
 * Affinity.co (https://techcrunch.com/2017/05/18/for-investors-seeking-a-purpose-built-crm-toolkit-affinity-raised-13-5-million-to-get-you-covered/)
-* RocketReach (email lookups)
 * Litmus (email marketing testing)
 * Elucify (Gerald fong's startup)
 * Redbooks
@@ -29,3 +28,4 @@
 * Common (coliving)
 * Chatfuel (chatbot creation)
 * InVision (design prototype tool)
+* RocketReach (email lookups)

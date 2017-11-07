@@ -59,4 +59,6 @@
 	* e-commerce for 2nd hand goods
 * cfxtrading
 	* secondary asset trading
+* opendorse
+	* athlete endorsement platform
 

@@ -7,6 +7,8 @@
 	* hadoop reporting
 * YugaByte
 	* cloud based data base
+* excelero
+	* software defined storage
 
 ### Cloud
 * OpsRamp
@@ -17,6 +19,8 @@
 	* cloud deployment for containers
 * Trilio
 	* openstack backup solution
+* Jitterbit
+	* make APIs
 
 
 ### Software Development
