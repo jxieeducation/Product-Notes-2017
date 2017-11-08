@@ -77,4 +77,6 @@
 	* brings international medical trainees to the U.S. for short-term medical training
 * InVision
 	* design collaboration tool 
-
+* Hostmaker
+	* provides services to airbnb hosts - https://hostmaker.com/airbnb-management-services/
+	* interior design, profile management, pricing, guest experience

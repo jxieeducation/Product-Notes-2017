@@ -7,7 +7,7 @@
 	* hadoop reporting
 * YugaByte
 	* cloud based data base
-* excelero
+* Excelero
 	* software defined storage
 
 ### Cloud

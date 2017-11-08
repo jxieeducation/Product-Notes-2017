@@ -38,3 +38,7 @@
 	* using blockchain to store customer identity / onboarding data
 * Abra
 	* digital wallet?
+
+### Banking
+* Monzo Bank
+	* new age mobile banking, with breakdowns of costs and mobile experience

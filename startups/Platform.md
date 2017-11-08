@@ -61,4 +61,5 @@
 	* secondary asset trading
 * opendorse
 	* athlete endorsement platform
-
+* putiandi
+	* Chinese popup restaurant space renting

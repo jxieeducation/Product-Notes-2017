@@ -19,6 +19,8 @@
 	* exchange to trade advertising contracts 
 * Cinématique
 	* “touchable” video platform that enables users to tap or click on different items to learn more
+* Intersection
+	* traditional phyisical world advertising - includes roads, subways...etc.
 
 ### Search
 * Constructor.io
