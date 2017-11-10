@@ -12,6 +12,9 @@
 	* Amazon GO checkout
 * Robart
 	* AI for autonomous consumer robots
+* Embodied Intelligence 
+	* https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/ai-startup-embodied-intelligence
+	* Peter Abeel - Imitation learning, VR - AI robotics service
 
 
 ### Manufacturing
@@ -60,13 +63,13 @@
 	* customer marketing platform, which, it claims, enables retailers to send individually personalised marketing messages across several brand touchpoints.
 
 ### etc
-* umbocv
+* Umbocv
 	* home security
-* scoutible
+* Scoutible
 	* make hires based on gaming data + ML
-* amperity
+* Amperity
 	* syncing identity data from multiple sources
-* pienso
+* Pienso
 	* no-coding / statistics AI solution for domain experts
 * Sourceress
 	* https://techcrunch.com/2017/11/07/sourceress-raises-3-5m-to-find-candidates-that-managers-want-without-realizing-it/

@@ -71,6 +71,15 @@
 	* audit expense reports to make sure that that expenses are not abusive
 * QLess
 	* queue-management e.g. DMV appointment with modern UI (chatbots...etc.)
+* Brocker Genius
+	* https://www.brokergenius.com/plans
+	* dynamic pricing in market places
+* TrackSheet
+	* https://www.trackstreet.com/minimum-advertised-price-enforcement/
+	* minimum advertising price monitoring, market visibility and review tracking SaaS for eCommerce
+* NoAgent
+	* https://www.noagent.co.uk/pricing/
+	* landlord services - payment, services, add-ons
 
 ### Etc
 * AMOpportunities
