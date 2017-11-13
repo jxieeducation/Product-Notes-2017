@@ -67,3 +67,5 @@
 	* marketing platform for retailers and manufacturers in the outdoors equipmenet (e.g. boats) that helps them tailor individualized online and in-store experiences
 * Scoop
 	* enterprise carpool for coworkers
+* Roomi
+	* find roommates

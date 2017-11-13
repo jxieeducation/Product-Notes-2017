@@ -80,6 +80,8 @@
 * NoAgent
 	* https://www.noagent.co.uk/pricing/
 	* landlord services - payment, services, add-ons
+* Loftorbital
+	* lease space on satillites for orgs that want to do research
 
 ### Etc
 * AMOpportunities
