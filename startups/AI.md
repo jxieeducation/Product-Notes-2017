@@ -73,4 +73,6 @@
 	* no-coding / statistics AI solution for domain experts
 * Sourceress
 	* https://techcrunch.com/2017/11/07/sourceress-raises-3-5m-to-find-candidates-that-managers-want-without-realizing-it/
-	* recruiting - fuzz search e.g. when search for python, also search for javascript
+	* recruiting - fuzz search e.g. when search for python, also search for javascript\
+* GraphCore
+	* IPU - faster GPU for machine learning

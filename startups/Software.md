@@ -21,6 +21,8 @@
 	* openstack backup solution
 * Jitterbit
 	* make APIs
+* logz
+	* logging data (Elasticsearch Logstash, Kibana) as a service
 
 
 ### Software Development

@@ -3,6 +3,8 @@
 * https://www.cleverism.com/companies/
 
 ### To do:
+* Meural (digital photo frame)
+* TrueAccord (debt collection)
 * Lunar Wireless (pay as you go data plan)
 * Veritone (AI OS)
 * UiPath (robotic process automation)

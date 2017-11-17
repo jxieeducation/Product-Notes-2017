@@ -18,6 +18,8 @@
 * Nested
 	* real estate platform for people to sell houses
 	* provide cash advance to help you buy a new house before you sold the old one
+* TrueAccord
+	* debt collection (https://techcrunch.com/2017/11/14/kinder-gentler-debt-collector-trueaccord-raises-22-million/)
 
 ### RegTech
 * Passfort

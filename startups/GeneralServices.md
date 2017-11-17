@@ -29,12 +29,13 @@
 	* a range of painting and cleaning services for cars in more than 20 Chinese cities 
 * Harry's 
 	* subscription for shaving blades / utensils
-* ink.me
+* Ink.me
 	* printing hardware / software for self served
-* lunarwireless
+* Lunarwireless
 	* no monthly data fee
 	* pay per app per day
-
+* Edmit
+	* platform to see if your college tuition is fair
 
 ### Business
 * Reflektion 
@@ -82,6 +83,10 @@
 	* landlord services - payment, services, add-ons
 * Loftorbital
 	* lease space on satillites for orgs that want to do research
+* Lessonly
+	* training employees https://www.lessonly.com/features/
+* Morressier
+	* planning platform for academic research conferences
 
 ### Etc
 * AMOpportunities

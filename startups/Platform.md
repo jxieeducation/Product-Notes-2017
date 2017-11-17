@@ -69,3 +69,5 @@
 	* enterprise carpool for coworkers
 * Roomi
 	* find roommates
+* Taskeasy
+	* ondemand lawn mower

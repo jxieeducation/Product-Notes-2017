@@ -22,5 +22,7 @@
 	* voice and touch control over smart home products (Sonos, Nest, and more), instead of smartphone
 
 ### etc
-* makusafe
+* Makusafe
 	* wearable workplace armband for communication
+* Meural
+	* digital photo frame

@@ -26,3 +26,7 @@
 * Constructor.io
 	* allows search and analytics on search box based on your product catalogue
 
+
+### DSP
+* Choozle
+	* https://choozle.com/features-media-buying
