@@ -36,6 +36,8 @@
 	* pay per app per day
 * Edmit
 	* platform to see if your college tuition is fair
+* Mobile Passport
+	* speeds you through airports by answer the usual sheet that people hand out before landing
 
 ### Business
 * Reflektion 
@@ -87,6 +89,8 @@
 	* training employees https://www.lessonly.com/features/
 * Morressier
 	* planning platform for academic research conferences
+* Achievelt
+	* jira for planning - with tracking for executives 
 
 ### Etc
 * AMOpportunities
