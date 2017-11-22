@@ -91,6 +91,8 @@
 	* planning platform for academic research conferences
 * Achievelt
 	* jira for planning - with tracking for executives 
+* Shippeo
+	* supply chain visibility platform
 
 ### Etc
 * AMOpportunities

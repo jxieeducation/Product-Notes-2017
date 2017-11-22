@@ -71,3 +71,6 @@
 	* find roommates
 * Taskeasy
 	* ondemand lawn mower
+* Visage
+	* platform for sourcing candidates - lets 3rd party recruiters help source candidates
+	* you post a job, and people help you find candidates, you receive short list

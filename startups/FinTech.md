@@ -44,3 +44,9 @@
 ### Banking
 * Monzo Bank
 	* new age mobile banking, with breakdowns of costs and mobile experience
+
+### Insurance
+* Zego
+	* insurance for gig workers - car / scooter insurance - only on the job 
+
+
